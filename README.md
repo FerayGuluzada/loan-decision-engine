@@ -18,7 +18,7 @@ It combines the original separate repositories:
 
 ---
 
-## Backend: Decision Engine
+Decision Engine
 
 The backend determines loan approval and computes the maximum possible loan based on a **user segment**.
 
