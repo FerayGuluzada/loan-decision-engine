@@ -1,6 +1,6 @@
 # Loan Decision Engine (Combined Frontend + Backend)
 
-This repository contains both the frontend and backend for the internship submission.
+This repository contains both the frontend and backend for the assignment submission.
 
 It combines the original separate repositories:
 
